@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { users } from '../data'; // Importa la constante users desde el archivo data.js
+import { users } from '../data';
 
 function LoginForm({ onLogin }) {
   const [username, setUsername] = useState('');

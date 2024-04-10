@@ -128,7 +128,7 @@ function UserTable({ users }) {
           <option value="5">5</option>
           <option value="10">10</option>
           <option value="15">15</option>
-          {/* Agrega más opciones según sea necesario */}
+          { }
         </select>
       </div>
     </div>

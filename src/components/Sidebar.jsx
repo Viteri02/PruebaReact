@@ -33,7 +33,7 @@ function Sidebar({ onLogout, onUpdateTable }) {
             <button style={styles.button} onClick={handleLogout}>
               Logout
             </button>
-            {/* Otros elementos del sidebar */}
+            { }
           </div>
         </div>
       ) : (
